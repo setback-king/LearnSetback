@@ -1,0 +1,86 @@
+[
+  {
+    "term": "Bid 2",
+    "definition": "Bidder must make at least two of the four possible points."
+  },
+  {
+    "term": "Bid 3",
+    "definition": "Bidder must make at least three of the four possible points."
+  },
+  {
+    "term": "Bid 4",
+    "definition": "Bidder must make all four points."
+  },
+  {
+    "term": "Cut the Deck",
+    "definition": "Before they deal, it is common courtesy for the dealer to offer the person to their right a chance to cut the deck. That person can either decline or accept. If they accept, they take a pile of cards from the top of the deck and put it down on the table, creating a second card pile. The dealer then takes the remaining cards and puts them on top of that pile. Deal commences immediately after."
+  },
+  {
+    "term": "Follow Suit",
+    "definition": "Player must always play a card of the same suit as the first card played, unless they decide to use a trump."
+  },
+  {
+    "term": "Garbage Points",
+    "definition": "Any extra points earned off your bid. For example, making four points when you only bid 3. Depending on the agreed upon rules, these points can also be earned by non-bidders."
+  },
+  {
+    "term": "Go Out",
+    "definition": "Refers to when a team or individual has the capability to win the game the next hand. They are within four points or less from reaching the winning score."
+  },
+  {
+    "term": "Hand",
+    "definition": "The six cards that you are dealt at the beginning of a new bidding round."
+  },
+  {
+    "term": "In the Hole",
+    "definition": "To have a score that is below zero."
+  },
+  {
+    "term": "Kickers",
+    "definition": "Cards that help you make your bid. These can be trump and non trump cards. Usually consist of high face cards."
+  },
+  {
+    "term": "Misdeal",
+    "definition": "When cards are dealt out incorrectly, or when a point card is exposed during the deal, the dealer must redo the deal. A point card is considered any two, ace, or jack."
+  },
+  {
+    "term": "Pass",
+    "definition": "To not bid anything. Bid goes to the next person to your left. If you dealt, then the winning bidder begins play."
+  },
+  {
+    "term": "Pitcher",
+    "definition": "Person who plays the first card of the trick."
+  },
+  {
+    "term": "Renege",
+    "definition": "To not follow suit even though you could have. Very illegal. The only exception to not following the suit is if you were to play a trump."
+  },
+  {
+    "term": "Set",
+    "definition": "Situation in which the bidder fails to achieve his bid, resulting in points being deducted from their score. For example, if you bid three and only earned two points, you subtract three points from your score."
+  },
+  {
+    "term": "Smudge",
+    "definition": "Optional way of bidding in which the bidder must earn all four points and collect every trick."
+  },
+  {
+    "term": "Suit",
+    "definition": "Hearts, Clubs, Diamonds, Spades (13 cards per suit)."
+  },
+  {
+    "term": "Table Talk",
+    "definition": "Talking in a manner that gives away valuable information. This could be information about cards that have already played, cards in your hand, or advice to your partner on how to proceed."
+  },
+  {
+    "term": "Trick",
+    "definition": "Cards left on the table after everyone played one card. Highest card of the original suit played, or highest trump, takes in the trick for their team. There is always a total of six tricks in each Setback round."
+  },
+  {
+    "term": "Trump",
+    "definition": "Suit that outranks the others. The trump suit is established when the bidder plays the first card. The trump suit determines the high, low, and jack points."
+  },
+  {
+    "term": "Valuable Information",
+    "definition": "Information that is every player’s duty to remember on their own. If you were not paying attention and forget something, TOUGH LUCK. For example, information such as what is the trump suit, who is still following the suit, who currently has control of the trick, asking what the bid was, etc."
+  }
+]

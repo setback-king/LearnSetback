@@ -1,0 +1,63 @@
+:root {
+  --headlines: #0077c2ff;
+  --background: #3f51b5ff;
+  --highlights: #d6efffff;
+  --buttons: #00bcd4ff;
+  --borders: #b2ebf2ff;
+
+  --primarybg: #d8dbe2ff; /* primary background color  */
+  --hyperdivider: #a9bcd0ff; /* hyperlinks and dividers */
+  --headlinebg: #58a4b0ff; /* border and headline background */
+  --primarytxt: #373f51ff; /* primary text color, subheadline text color */
+  --buttonbg: #daa49aff; /* button color - use white text*/
+  --white: white; /* headline text color  */
+}
+
+html {
+  font-family: "Shantell Sans", cursive;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.flippable-card {
+  position: relative;
+  height: 280px;
+  width: 185px;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  cursor: pointer;
+}
+
+.flippable-card.flipped {
+  transform: rotateY(180deg);
+}
+
+.flippable-card .front,
+.flippable-card .back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flippable-card .front {
+  z-index: 2;
+}
+
+.flippable-card .back {
+  transform: rotateY(180deg);
+}
