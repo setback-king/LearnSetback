@@ -10,6 +10,7 @@ import Main from "./Main";
 import Register from "./Register";
 import ProtectedRoute from "./ProtectedRoute";
 import Settings from "./Settings";
+import RuleTab from "../components/Rules/RuleTab";
 
 export {
   Landing,
@@ -23,5 +24,6 @@ export {
   Main,
   Register,
   ProtectedRoute,
+  RuleTab,
   Settings,
 };

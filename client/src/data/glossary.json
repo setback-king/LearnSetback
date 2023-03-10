@@ -1,5 +1,9 @@
 [
   {
+    "term": "Bare <card>",
+    "definition": "When you only have one card of a particular suit. For example, a bare ace in spades would mean that in the hand you got dealt, that ace is the only spade."
+  },
+  {
     "term": "Bid 2",
     "definition": "Bidder must make at least two of the four possible points."
   },
@@ -43,6 +47,7 @@
     "term": "Misdeal",
     "definition": "When cards are dealt out incorrectly, or when a point card is exposed during the deal, the dealer must redo the deal. A point card is considered any two, ace, or jack."
   },
+
   {
     "term": "Pass",
     "definition": "To not bid anything. Bid goes to the next person to your left. If you dealt, then the winning bidder begins play."
@@ -50,6 +55,10 @@
   {
     "term": "Pitcher",
     "definition": "Person who plays the first card of the trick."
+  },
+  {
+    "term": "Point Card",
+    "definition": "Any card that is worth game points (10, J, Q, K, Ace)."
   },
   {
     "term": "Renege",
@@ -78,6 +87,11 @@
   {
     "term": "Trump",
     "definition": "Suit that outranks the others. The trump suit is established when the bidder plays the first card. The trump suit determines the high, low, and jack points."
+  },
+
+  {
+    "term": "Trumped",
+    "definition": "A situation in which a player no longer has any trump cards in their hand. They are all 'trumped' out."
   },
   {
     "term": "Valuable Information",

@@ -69,7 +69,14 @@ const NavCard = ({ text, backText, url, mT }) => {
           {" "}
           <CardBody alignSelf="center">{backText}</CardBody>
           <Spacer />
-          <Button onClick={handleClick} height="80px" fontSize="20px">
+          <Button
+            onClick={handleClick}
+            height="80px"
+            fontSize="20px"
+            color="primarytxt.700"
+            bg="headline.200"
+            _hover={{ bg: "headline.400" }}
+          >
             {text}
           </Button>
         </Card>

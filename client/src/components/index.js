@@ -10,6 +10,7 @@ import HomeCards from "./Home/HomeCards";
 import Glossary from "./Rules/Glossary";
 import TabComponent from "./Tab";
 import Rule from "./Rules/Rule";
+import { RuleTab } from "../pages";
 
 export {
   Header,
@@ -21,6 +22,7 @@ export {
   UIAlert,
   HomeCards,
   ProfileMenu,
+  RuleTab,
   TabComponent,
   Glossary,
   Rule,

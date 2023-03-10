@@ -1,5 +1,5 @@
 import { Flex, Heading } from "@chakra-ui/react";
-import { Glossary, TabComponent } from "../components";
+import { Glossary, TabComponent, RuleTab } from "../components";
 
 const Rules = () => {
   return (
@@ -7,7 +7,7 @@ const Rules = () => {
       <TabComponent
         tab1="Rules"
         tab2="Glossary"
-        tab1Content={<p>Rules Go Here</p>}
+        tab1Content={<RuleTab />}
         tab2Content={<Glossary />}
       />
     </Flex>

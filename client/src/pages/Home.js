@@ -1,7 +1,8 @@
-import { Flex, Heading, VStack, Text } from "@chakra-ui/react";
+import { Flex, Heading, VStack, Text, Button } from "@chakra-ui/react";
 import { HomeCards } from "../components";
 import Lottie from "react-lottie-player";
 import learnLottie from "../assets/lottie/learning.json";
+import { NavLink } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -25,6 +26,11 @@ const Home = () => {
           <Text fontSize="lg">
             Your One-Stop-Shop for Rules, Strategies, Playing, and Tips
           </Text>
+          <NavLink to="/about" style={{ marginTop: "30px" }}>
+            <Button bg="bg.100" _hover={{ bg: "bg.200" }}>
+              Learn More
+            </Button>
+          </NavLink>
         </VStack>
         <Lottie
           loop
