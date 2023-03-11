@@ -16,6 +16,10 @@
     "definition": "Bidder must make all four points."
   },
   {
+    "term": "Bid In <Suit>",
+    "definition": "This references what suit the bidder declared to be trump for the round."
+  },
+  {
     "term": "Cut the Deck",
     "definition": "Before they deal, it is common courtesy for the dealer to offer the person to their right a chance to cut the deck. That person can either decline or accept. If they accept, they take a pile of cards from the top of the deck and put it down on the table, creating a second card pile. The dealer then takes the remaining cards and puts them on top of that pile. Deal commences immediately after."
   },
@@ -30,6 +34,10 @@
   {
     "term": "Go Out",
     "definition": "Refers to when a team or individual has the capability to win the game the next hand. They are within four points or less from reaching the winning score."
+  },
+  {
+    "term": "Go Up",
+    "definition": "Another of way of saying 'to be set'. To not make one's bid."
   },
   {
     "term": "Hand",
