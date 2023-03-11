@@ -68,14 +68,16 @@ const About = () => {
         important to note that there are many different rules and variations to
         the game of Setback. Throughout this guide, I will cover each of those
         variations, as well as all of the different rule configurations of the
-        game. While explaining those rules and strategy, I will be using common
-        terminology that all Setback players should know. If you come across an
-        unknown term or expression, chances are that I have included a brief
-        definition for it in the glossary. The glossary can be found in a tab on
-        the rules page. As the site progresses, it is my goal to continue to add
-        new problems, tutorials, and quizzes that you can use to hone your
-        skills. Currently, there is no functionality for online play. This
-        feature of the site will be added shortly.
+        game. However, there will be more emphasis on the game type that
+        involves playing 2 vs 2 with partners. While explaining those rules and
+        strategy, I will be using common terminology that all Setback players
+        should know. If you come across an unknown term or expression, chances
+        are that I have included a brief definition for it in the glossary. The
+        glossary can be found in a tab on the rules page. As the site
+        progresses, it is my goal to continue to add new problems, tutorials,
+        and quizzes that you can use to hone your skills. Currently, there is no
+        functionality for online play. This feature of the site will be added
+        shortly.
         <br />
         <br />
         Finally, thank you for choosing my site to learn the game. Whether you

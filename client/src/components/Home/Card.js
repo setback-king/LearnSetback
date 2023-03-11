@@ -38,6 +38,7 @@ const NavCard = ({ text, backText, url, mT }) => {
           borderRadius="10px"
           border="2px solid white"
           bg="primarytxt.600"
+          _hover={{ bg: "headline.400" }}
           color="white"
         >
           {" "}

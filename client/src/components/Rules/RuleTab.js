@@ -3,14 +3,21 @@ import { Heading, Flex, Text } from "@chakra-ui/react";
 
 const RuleTab = () => {
   return (
-    <Flex>
-      <Text>
-        *There are many variations of how to play the game of Setback.
-        Throughout this guide, I will cover each of those variations, as well as
-        all of the different rule configurations of the game. If you come across
-        an unknown term or expression, chances are that I have included a brief
-        definition for it in the glossary tab.{" "}
-      </Text>
+    <Flex direction="column" gap="25px">
+      <Heading>
+        There are two main variations of how to play the game: Partners &
+        Cutthroat
+      </Heading>
+      <Rule
+        heading="# of Players"
+        bulletPoints={["2-8"]}
+        text="The most common"
+      />
+      <Rule
+        heading="Objective"
+        bulletPoints={["2-8"]}
+        text="block of texts such as paragraphs go here"
+      />
     </Flex>
   );
 };

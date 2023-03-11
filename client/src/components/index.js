@@ -10,7 +10,7 @@ import HomeCards from "./Home/HomeCards";
 import Glossary from "./Rules/Glossary";
 import TabComponent from "./Tab";
 import Rule from "./Rules/Rule";
-import { RuleTab } from "../pages";
+import RuleTab from "./Rules/RuleTab";
 
 export {
   Header,

@@ -81,6 +81,10 @@
     "definition": "Talking in a manner that gives away valuable information. This could be information about cards that have already played, cards in your hand, or advice to your partner on how to proceed."
   },
   {
+    "term": "The Lead",
+    "definition": "Refers to the first card played by the person who won the bidding and declared the trump suit. This first card played sets the suit for the round, and all other players must follow suit if they can. The player who wins the trick then takes the cards played and leads the next trick."
+  },
+  {
     "term": "Trick",
     "definition": "Cards left on the table after everyone played one card. Highest card of the original suit played, or highest trump, takes in the trick for their team. There is always a total of six tricks in each Setback round."
   },
